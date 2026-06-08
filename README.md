@@ -206,7 +206,7 @@ if player["hp"] < 0:
 
 ---
 
-## 🐛 Known Bugs to Fix (Great Practice!)
+## 🐛 Known Bugs to Fix
 
 | Bug | Location | What's Wrong |
 |---|---|---|
@@ -237,5 +237,3 @@ if player["hp"] < 0:
 **Rohit Ghosh** — [@Rohitghosh14](https://github.com/Rohitghosh14)
 
 *All Genshin Impact characters, lore, and elements belong to **HoYoverse**. This is a fan-made, non-commercial learning project.*
-
-*Python learning path: Fundamentals → OOP → Projects → AI/ML Engineering*
